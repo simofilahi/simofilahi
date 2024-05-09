@@ -10,7 +10,8 @@ With over three years of robust experience in full-stack development, my experti
 - **Languages:** JavaScript, TypeScript, Python, Java, C
 - **Markup & Style:** HTML, CSS
 - **Frameworks/Libraries:** ReactJs, AngularJs, NodeJS, NestJs, Express, and more
-- **Tools & Platforms:** Docker, Kubernetes, GitHub Actions, Postman, Swagger, Git
+- **Tools:** Docker, Kubernetes, GitHub Actions, Postman, Swagger, Git
+- **Platforms:** Github, Gitlab, Jira, Trello
 - **Databases:** MongoDB, MySQL, SQLite
 
 I'm committed to continuous learning and apply agile methodologies to improve collaboration and efficiency in team environments.
